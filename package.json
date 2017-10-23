@@ -1,0 +1,17 @@
+{
+  "name": "zenburn-plus-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A syntax theme based on the emacs version of zenburn (with a few additions)",
+  "keywords": [
+    "syntax",
+    "theme",
+    "zenburn",
+    "emacs"
+  ],
+  "repository": "https://github.com/michaelkent94/zenburn-plus-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
